@@ -7,6 +7,7 @@ import store from './state/store';
 
 ReactDOM.render(
   <React.StrictMode>
+    {/* provider component for redux-flow */}
     <Provider store={store}>
       <App />
     </Provider>
