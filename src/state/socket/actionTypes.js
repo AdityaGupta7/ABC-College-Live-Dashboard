@@ -1,0 +1,1 @@
+export const FETCH_SOCKET_DATA = 'FETCH_SOCKET_DATA';
